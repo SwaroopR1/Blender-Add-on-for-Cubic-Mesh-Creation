@@ -7,21 +7,11 @@ _A simple addon for creating, managing, and merging mesh cubes in Blender._
 
 This addon was developed as the solution of the screening test for FOSSEE (https://fossee.in/) under Task 1 of the OpenFOAM GUI project selection process. The screening tests were the evaluation step for the FOSSEE Summer Fellowship 2025, a summer internship program at IIT Bombay.
 
-🔥 Features
-# Feature Set 1: Cube Grid Generator
-Input N Cubes: Enter a number N (<20) to generate a 2D grid of cubes.
 
-Smart Placement: Cubes are evenly distributed in an m x n grid (no overlaps).
 
-Error Handling: Pop-up warning if N > 20 is entered.
+🔥 Features of the addon:
 
-Collection Support: Dedicated collection for organized cube storage.
-
-Delete  Button: Remove selectedd cubes with one click.
-
----
-# Feature Set 2: Mesh Merger
-Merge Selected Meshes: Combines multiple cubes into a single mesh.
-                      - Common Face Check: Ensures meshes share at least one face before merging.
-
-Auto-Cleanup: Deletes redundant vertices/faces after merging.
+1. A panel named "FOSSEE_ADDON" is added to the 3D Viewport.
+2. Enter a number N ε [0,20] to generate a 2D grid of cubes.
+3. Cubes are evenly distributed in an m x n grid (no overlaps).
+4. 
