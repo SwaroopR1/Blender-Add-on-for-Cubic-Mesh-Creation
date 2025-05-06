@@ -28,7 +28,7 @@ This addon was developed as the solution of the screening test for FOSSEE (https
 ---
 🛠️ Installation
 
-Download the FOSSEE_ADDON.zip file from Releases (or clone this repo) and extract the file.
+Download the FOSSEE_ADDON.zip file.
 
 Open Blender → Edit → Preferences → Add-ons → Add-ons Settings ('∨' icon on the top-right end) → Install from Disk... → Locate and select the python file → And click "Install from Disk"
 
