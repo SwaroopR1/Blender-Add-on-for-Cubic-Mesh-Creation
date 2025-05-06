@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20adaf19-3599-4629-b74a-b818e1524f0f)## Blender Mesh Toolkit Addon
+## Blender Mesh Toolkit Addon
 
 _A simple addon for creating, managing, and merging mesh cubes in Blender._
 
@@ -30,5 +30,5 @@ This addon was developed as the solution of the screening test for FOSSEE (https
 
 Download the FOSSEE_ADDON.zip file from Releases (or clone this repo) and extract the file.
 
-Open Blender → Edit → Preferences → Add-ons → Add-ons Settings ('∨' icon on the top-right end) → Install from Disk... → Locate and select the python file → And click "Install from Disk"
+Open Blender → Edit → Preferences → Add-ons → Add-ons Settings ('![image](https://github.com/user-attachments/assets/6523f498-2dbb-4407-8661-4e2e3992edfc)' icon on the top-right end) → Install from Disk... → Locate and select the python file → And click "Install from Disk"
 
