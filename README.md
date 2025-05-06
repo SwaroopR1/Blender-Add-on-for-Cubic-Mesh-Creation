@@ -13,12 +13,11 @@ This addon was developed as the solution of the screening test for FOSSEE (https
 
 **Feature Set 1: Cube Grid Generator**
 1. **UI Panel**: A panel named **FOSSEE_ADDON** is added to the 3D Viewport sidebar.
-2. Enter a number N ε [0,20] to generate a 2D grid of cubes (of side length = 1 Blender unit).
-3. Cubes are evenly distributed in an m x n grid (no overlaps).
-4. The new cubes does not overlap with any existing ones.  
-5. A spearate collection for every instance of creation of cubes.
-6. A button for deletion of selected meshes.
-
+2. **Input Control**: Enter a number **N ∈ [0, 20]** to generate a 2D grid of cubes (each with a side length of 1 Blender unit).
+3. **Smart Distribution**: Cubes are evenly distributed in an **m × n** grid without _overlaps_.
+4. **Collision Avoidance**: New cubes _do not_ overlap with existing objects in the scene.
+5. **Organized Workflow**: Each set of generated cubes is placed in a dedicated collection for easy management.
+6. **Delete Tool**: A button to delete selected meshes with one click.
 
 Feature set 2:
 1. In the same UI as Feature set 1, there is a button which merges the selected cubes (which were generated using this Add-on) into a single mesh.
