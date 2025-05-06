@@ -5,7 +5,8 @@ _A simple addon for creating, managing, and merging mesh cubes in Blender._
 ![image](https://github.com/user-attachments/assets/412127f5-59cd-408b-afc8-1f5477afd44d)
 
 ---
-**Project context**
+**Project context:**
+
 This addon was developed as the solution of the screening test for FOSSEE (https://fossee.in/) under Task 1 of the OpenFOAM GUI project selection process. The screening tests were the evaluation step for the FOSSEE Summer Fellowship 2025, a summer internship program at IIT Bombay.
 
 ---
