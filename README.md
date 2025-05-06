@@ -1,4 +1,4 @@
-## Blender Mesh Toolkit Addon
+## 🔧 Blender Mesh Toolkit Addon
 
 _A simple addon for creating, managing, and merging mesh cubes in Blender._
 
