@@ -2,7 +2,8 @@
 
 _A simple yet powerful addon for creating, managing, and merging mesh cubes in Blender._
 
-![image](https://github.com/user-attachments/assets/e7e27a77-de65-494e-8a8c-2aaff95bbe8d)
+![image](https://github.com/user-attachments/assets/412127f5-59cd-408b-afc8-1f5477afd44d)
+
 
 ---
 🔥 Features
@@ -16,3 +17,10 @@ Error Handling: Pop-up warning if N > 50 is entered.
 Collection Support: Optional dedicated collection for organized cube storage.
 
 Delete Button: Remove selected cubes with one click.
+
+# Feature Set 2: Mesh Merger
+Merge Selected Meshes: Combines multiple cubes into a single mesh.
+
+Common Face Check: Ensures meshes share at least one face before merging.
+
+Auto-Cleanup: Deletes redundant vertices/faces after merging.
