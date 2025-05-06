@@ -13,8 +13,8 @@ Smart Placement: Cubes are evenly distributed in an m x n grid (no overlaps).
 Error Handling: Pop-up warning if N > 20 is entered.
 
 Collection Support: Optional dedicated collection for organized cube storage.
+Delete  Button: Remove selectedd cubes with one click.
 
-Delete Button: Remove selected cubes with one click.
 ---
 # Feature Set 2: Mesh Merger
 Merge Selected Meshes: Combines multiple cubes into a single mesh.
